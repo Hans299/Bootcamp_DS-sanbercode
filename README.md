@@ -31,7 +31,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - File Handling
 - Git & Version Control
 
-📂 `01_python_fundamental`
+
 
 ---
 
@@ -43,7 +43,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Handling Missing Values
 - Exploratory Data Analysis (EDA)
 
-📂 `02_data_analysis`
+
 
 ---
 
@@ -54,7 +54,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Storytelling with Data
 - Dashboard Basic
 
-📂 `03_data_visualization`
+
 
 ---
 
@@ -65,7 +65,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Correlation & Regression
 - A/B Testing
 
-📂 `04_statistics`
+
 
 ---
 
@@ -85,7 +85,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Cross Validation
 - Feature Engineering
 
-📂 `05_machine_learning`
+
 
 ---
 
@@ -96,7 +96,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Subquery
 - Database Design
 
-📂 `06_sql`
+
 
 ---
 
@@ -109,7 +109,7 @@ Tujuannya adalah mengolah data menjadi insight untuk pengambilan keputusan.
 - Evaluation
 - Deployment (Optional)
 
-📂 `07_final_project`
+
 
 ---
 
